@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="category_promt">Choose a category</string>
+    <string name="estimated_price">Estimated price</string>
+    <string name="item_description">Item description</string>
+    <string name="already_purchased">Already purchased</string>
+    <string name="save_item">Save item</string>
+    <string name="item_name">Item name</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="purchased">Purchased</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add_item">Add item</string>
+    <string name="new_item">New item</string>
+    <string name="delete_all">Delete all</string>
+    <string name="food">Food</string>
+    <string name="electronics">Electronics</string>
+    <string name="clothing">Clothing</string>
+    <string name="book">Book</string>
+    <string name="itemID">itemID</string>
+    <string name="cancelled_edit">Edit was cancelled</string>
+    <string name="other">Other</string>
+    <string name="dollar">$%1$s</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="total">Total: %1$s</string>
+
+    <string-array name="category_arrays">
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Book</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
